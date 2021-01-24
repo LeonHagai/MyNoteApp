@@ -12,3 +12,17 @@ java, jetpack{ROOM, lifecycle, viewmodel}
 # Architecture
 MVVM
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
